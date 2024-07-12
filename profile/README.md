@@ -4,13 +4,9 @@
 
 We build elegant websites at affordable prices.
 
-</br>
-
 ## 🌟 About Us
 
-about text
-
-</br>
+At DEVELEVEN-io, we're all about bringing creative ideas to life. Our team loves crafting high-quality, efficient, and easy-to-maintain software solutions with the latest tech. We're passionate about what we do and are dedicated to making a difference through our projects.
 
 ## 🚀 Our Work
 
@@ -35,7 +31,7 @@ A collection of mathematical applications.
 - **Language:** TypeScript
 - **License:** MIT
 
----
+<br/>
 
 ## 🛠️ Services
 
@@ -55,7 +51,7 @@ Designing and implementing scalable, well-documented, and easy-to-integrate APIs
 
 Providing consulting, custom software development, and technical support tailored to your needs.
 
----
+<br/>
 
 ## 👥 Our Team
 
@@ -75,7 +71,7 @@ Web Developer
 **Raiyan Takrim**  
 Web Developer
 
----
+<br/>
 
 ## 📞 Contact Us
 
@@ -85,11 +81,11 @@ Feel free to reach out to us through the following channels:
 - **Discord:** [Join our community](https://discord.gg/xTtkGvv6)
 - **Email:** develeven@outlook.com
 
-### Contributing
+### ✨ Contributing
 
 We welcome contributions! Please read our contributing guidelines in each repository for more information.
 
----
+<br/>
 
 ## 📝 Footer
 
