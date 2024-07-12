@@ -1,26 +1,7 @@
-<style>
-    h1 span {
-        color: #59E1FF; 
-    }
-    .gradient {
-        background: -webkit-linear-gradient(left, #0ef 1%,#dcf0f1 25%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-        font-size: 24px;
-        font-weight: bold; 
-    }
-    a {
-        color: red;
-    }
-</style>
+<h1> <img src="https://raw.githubusercontent.com/DEVELEVEN-io/develeven-io/main/assets/logo.png" width="24" /> <span> DevEleven-io </span> </h1>
 
-<h1 style="" class="logo"> <img src="https://raw.githubusercontent.com/DEVELEVEN-io/develeven-io/main/assets/logo.png" width="24" /> <span> DevEleven-io </span> </h1>
+## Turning Ideas into Reality
 
-<p style="background: -webkit-linear-gradient(left, #0ef 1%,#dcf0f1 25%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
-        font-size: 24px;
-        font-weight: bold; " class="gradient" align="left">
-  <span>
-    Turning Ideas </br> into Reality
-  </span>
-</p>
 We build elegant websites at affordable prices.
 
 </br>
