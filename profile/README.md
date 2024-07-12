@@ -59,19 +59,19 @@ Providing consulting, custom software development, and technical support tailore
 
 ## 👥 Our Team
 
-![Abid Al Wassie](https://develeven-io.vercel.app/abid.jpg)  
-**Abid Al Wassie**  
-Web Developer
-
-![Ragib Al Asad](https://develeven-io.vercel.app/ragib.jpg)  
+![Ragib Al Asad](https://github.com/ragibalasad)  
 **Ragib Al Asad**  
-Web Developer
+Co-Founder, Senior Backend Developer
 
-![Shihab Shahriar Rashu](https://develeven-io.vercel.app/shihab.jpg)  
+![Abid Al Wassie](https://github.com/AbidAlWassie)  
+**Abid Al Wassie**  
+Co-Founder, Senior Web Developer
+
+![Shihab Shahriar Rashu](https://github.com/muhammadshihab)  
 **Shihab Shahriar Rashu**  
 Web Developer
 
-![Raiyan Takrim](https://develeven-io.vercel.app/raiyan.jpg)  
+![Raiyan Takrim](https://github.com/raiyan-takrim)  
 **Raiyan Takrim**  
 Web Developer
 
@@ -85,11 +85,15 @@ Feel free to reach out to us through the following channels:
 - **Discord:** [Join our community](https://discord.gg/xTtkGvv6)
 - **Email:** develeven@outlook.com
 
+### Contributing
+
+We welcome contributions! Please read our contributing guidelines in each repository for more information.
+
 ---
 
 ## 📝 Footer
 
-© 2024 DEVELEVEN-io. All rights reserved.  
+© 2024 DEVELEVEN-io.
 Licensed under the MIT License. See the LICENSE file in each repository for more details.
 
 ---
