@@ -14,7 +14,7 @@
 
 <h1 style="" class="logo"> <img src="https://raw.githubusercontent.com/DEVELEVEN-io/develeven-io/main/assets/logo.png" width="24" /> <span> DevEleven-io </span> </h1>
 
-<p style="        background: -webkit-linear-gradient(left, #0ef 1%,#dcf0f1 25%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+<p style="background: -webkit-linear-gradient(left, #0ef 1%,#dcf0f1 25%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;
         font-size: 24px;
         font-weight: bold; " class="gradient" align="left">
   <span>
