@@ -61,7 +61,7 @@ Co-Founder, Senior Backend Developer
 
 ![Abid Al Wassie](https://github.com/AbidAlWassie)  
 **Abid Al Wassie**  
-Co-Founder, Senior Web Developer
+Co-Founder, Senior Full Stack Developer
 
 ![Shihab Shahriar Rashu](https://github.com/muhammadshihab)  
 **Shihab Shahriar Rashu**  
