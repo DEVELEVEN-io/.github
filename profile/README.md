@@ -10,28 +10,8 @@ At DEVELEVEN-io, we're all about bringing creative ideas to life. Our team loves
 
 ## 🚀 Our Work
 
-### [develeven-backend](https://github.com/DEVELEVEN-io/develeven-backend)
-
-Backend API for DEVELEVEN's website.
-
-- **Language:** Python
-- **License:** MIT
-
-### [develeven-io](https://github.com/DEVELEVEN-io/develeven-io)
-
-Our team's website.
-
-- **Language:** JavaScript
-- **License:** MIT
-
-### [math-apps](https://github.com/DEVELEVEN-io/math-apps)
-
-A collection of mathematical applications.
-
-- **Language:** TypeScript
-- **License:** MIT
-
-<br/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEVELEVEN-io&repo=develeven-io&theme=github_dark_dimmed)](https://github.com/DEVELEVEN-io/develeven-io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DEVELEVEN-io&repo=math-apps&theme=github_dark_dimmed)](https://github.com/DEVELEVEN-io/math-apps)
 
 ## 🛠️ Services
 
