@@ -1,15 +1,16 @@
 <h1> 
-  <img src="https://raw.githubusercontent.com/DEVELEVEN-io/develeven-io/main/assets/logo.png" width="24" /> 
-  <span> DevEleven-io </span> 
+  <img src="https://raw.githubusercontent.com/DEVELEVEN-io/develeven-io/main/assets/logo.png" width="34" /> 
+  <img src="http://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=35&duration=1000&pause=9999&center=false&vCenter=true&width=500&height=31&lines=DevEleven-io" alt="Typing SVG" />
+  
   <a href="https://github.com/DEVELEVEN-io?tab=followers">
     <img align="right" alt="followers" title="Follow us on Github" src="https://custom-icon-badges.demolab.com/github/followers/DEVELEVEN-io?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/> </a>
   <a href="https://github.com/orgs/DEVELEVEN-io/repositories?q=sort%3Astars">
-    <img align="right" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DEVELEVEN-io?color=55960c&style=flat&labelColor=488207&logo=star"/></a>
+    <img align="right" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DEVELEVEN-io?color=55960c&style=flat&labelColor=488207&logo=star"/>
+  </a>
+<br>
+  <img width="34" /> 
+  <img src="http://readme-typing-svg.herokuapp.com?font=Sora&size=24&duration=3000&center=false&vCenter=true&width=500&height=26&lines=Turning+Ideas+into+Reality;+We+build+elegant+websites;+at+affordable+prices." alt="Typing SVG" />
 </h1>
-
-## Turning Ideas into Reality
-
-We build elegant websites at affordable prices.
 
 ## 🌟 About Us
 
