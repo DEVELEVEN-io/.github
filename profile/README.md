@@ -1,11 +1,11 @@
 <h1> 
     <a href="https://github.com/orgs/DEVELEVEN-io/repositories?q=sort%3Astars">
-      <img align="right" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DEVELEVEN-io?color=55960c&style=flat&labelColor=488207&logo=star"/>
+      <img align="right" alt="total stars" title="Total stars on GitHub" src="https://readme-gizmos.vercel.app/github/stars/DEVELEVEN-io?color=55960c&style=flat&labelColor=488207&logo=star"/>
     </a>
     <a href="https://github.com/DEVELEVEN-io?tab=followers">
-      <img align="right" alt="followers" title="Follow us on Github" src="https://custom-icon-badges.demolab.com/github/followers/DEVELEVEN-io?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/> 
+      <img align="right" alt="followers" title="Follow us on Github" src="https://readme-gizmos.vercel.app/github/followers/DEVELEVEN-io?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/> 
     </a>
-  <img src="https://raw.githubusercontent.com/DEVELEVEN-io/develeven-io/main/assets/logo.png" width="34" /> 
+  <img src="https://develeven.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.e02e4a54.png&w=48&q=75" width="34" /> 
   <img src="http://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=35&duration=1000&pause=9999&center=false&vCenter=true&width=500&height=31&lines=DevEleven-io" alt="Typing SVG" />
 
 <br>
