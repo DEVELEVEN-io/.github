@@ -46,11 +46,7 @@ Providing consulting, custom software development, and technical support tailore
 
 ![Ragib Al Asad](https://github.com/ragibalasad)  
 **Ragib Al Asad**  
-Co-Founder, Senior Backend Developer
-
-![Abid Al Wassie](https://github.com/AbidAlWassie)  
-**Abid Al Wassie**  
-Co-Founder, Senior Full Stack Developer
+Founder, Senior Backend Developer
 
 ![Shihab Shahriar Rashu](https://github.com/muhammadshihab)  
 **Shihab Shahriar Rashu**  
