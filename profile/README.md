@@ -5,12 +5,12 @@
     <a href="https://github.com/DEVELEVEN-io?tab=followers">
       <img align="right" alt="followers" title="Follow us on Github" src="https://readme-gizmos.vercel.app/github/followers/DEVELEVEN-io?color=236ad3&labelColor=1155ba&style=flat&logo=person-add&label=Follow&logoColor=white"/> 
     </a>
-  <img src="https://develeven.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.e02e4a54.png&w=48&q=75" width="34" /> 
-  <img src="http://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=35&duration=1000&pause=9999&center=false&vCenter=true&width=500&height=31&lines=DevEleven-io" alt="Typing SVG" />
+  <img src="https://develeven.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.e02e4a54.png&w=48&q=75" width="40" /> 
+  <img src="http://readme-typing-svg.herokuapp.com?font=Sora&weight=600&size=36&duration=1000&pause=9999&vCenter=true&center=false&vCenter=true&width=500&height=34&lines=DevEleven-io" alt="Typing SVG" />
 
 <br>
   <img width="34" /> 
-  <img src="http://readme-typing-svg.herokuapp.com?font=Sora&size=24&duration=3000&center=false&vCenter=true&width=500&height=26&lines=Turning+Ideas+into+Reality;+We+build+elegant+websites;+at+affordable+prices." alt="Typing SVG" />
+  <img src="http://readme-typing-svg.herokuapp.com?font=Sora&size=24&duration=3000&vCenter=true&center=false&vCenter=true&width=500&height=26&lines=Turning+Ideas+into+Reality;+We+build+elegant+websites;+at+affordable+prices." alt="Typing SVG" />
 </h1>
 
 ## 🌟 About Us
